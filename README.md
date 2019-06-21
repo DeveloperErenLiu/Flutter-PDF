@@ -6,7 +6,7 @@
 >
 > 目前已经有不少大型项目接入`Flutter`，阿里的咸鱼、头条的抖音、腾讯的NOW直播，都将`Flutter`当做应用程序的开发语言。除此之外，还有一些其他中小型公司也在做。`Flutter`越来越变成一个新的开发趋势。
 
-
+![配图](https://github.com/DeveloperErenLiu/Flutter-PDF/blob/master/80CFDCBD-F2B7-40C4-A3E8-9D19A2F72D21.png)
 
 本系列总共三篇文章，原文发在我简书的博客上。为了提升阅读体验，将所有文章汇总为一份PDF。
 
